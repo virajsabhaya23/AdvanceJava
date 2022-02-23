@@ -1,4 +1,4 @@
-package AdvanceJava.SubstitutionPrinciple;
+package Generics.SubstitutionPrinciple;
 
 class Office extends Building{
     @Override

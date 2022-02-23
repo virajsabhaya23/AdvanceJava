@@ -1,4 +1,4 @@
-package WildCards;
+package Generics.WildCards;
 
 class Building {
     public int numberOfRooms = 7;

@@ -1,4 +1,4 @@
-package WildCards;
+package Generics.WildCards;
 
 class Office extends Building{
     @Override

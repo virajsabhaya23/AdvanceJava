@@ -1,6 +1,4 @@
-package AdvanceJava;
-
-
+package Generics;
 import java.util.ArrayList;
 import java.util.List;
 
