@@ -8,7 +8,7 @@ public class Main {
         thread1.start();
 
         ThreadExample thread2 = new ThreadExample();
-        thread2.setName("My second thread!");
+        thread2.setName("My 2nd thread!");
         thread2.start();
     }
 }

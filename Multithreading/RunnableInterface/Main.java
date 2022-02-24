@@ -24,7 +24,6 @@ public class Main {
                     i++;
                 }
         });
-
         thread2.start();
 
     }
