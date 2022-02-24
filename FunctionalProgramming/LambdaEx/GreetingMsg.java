@@ -1,4 +1,4 @@
-package FunctionalProgramming;
+package FunctionalProgramming.LambdaEx;
 
 @FunctionalInterface
 public interface GreetingMsg {
